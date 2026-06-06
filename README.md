@@ -25,7 +25,7 @@ An **IT Graduate** specializing in **Backend Development & DevOps principles**. 
 * **[IBM Back-End Development Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/ZVWZXBG3O7W7?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof)** (Comprehensive 11-Course Bundled Path)
 * **[Integrated System Analysis (ERP)](https://drive.google.com/file/d/1A9Y_SqpGl5K-MkLtZ88JMtRWFzujllfW/view?usp=drivesdk)** - Digital Transformation Center (DT&T) & GASSP
 * **[Python, Artificial Intelligence & Data Science Training](https://drive.google.com/file/d/1HGD8fvuFdZRctcDEm1pHbp8qc6hHEThz/view)** - Sana'a University
-* * **[Web Design Laravel](https://drive.google.com/file/d/1awYoPUCGOS74GsdXyLrXBIJPL2LQl576/view)** - Sana'a University
+* **[Web Design Laravel](https://drive.google.com/file/d/1awYoPUCGOS74GsdXyLrXBIJPL2LQl576/view)** - Sana'a University
 
 ---
 
